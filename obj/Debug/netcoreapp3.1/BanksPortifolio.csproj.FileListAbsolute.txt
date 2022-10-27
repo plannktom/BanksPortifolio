@@ -1,0 +1,28 @@
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.exe
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.deps.json
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.runtimeconfig.json
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.runtimeconfig.dev.json
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.dll
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.pdb
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.csproj.AssemblyReference.cache
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.AssemblyInfoInputs.cache
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.AssemblyInfo.cs
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.csproj.CoreCompileInputs.cache
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.dll
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.pdb
+D:\Projetos C#\ws-vs2020\Bank's Portifolio\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.genruntimeconfig.cache
+C:\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.exe
+C:\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.deps.json
+C:\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.runtimeconfig.json
+C:\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.runtimeconfig.dev.json
+C:\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.dll
+C:\BanksPortifolio\bin\Debug\netcoreapp3.1\BanksPortifolio.pdb
+C:\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.csproj.AssemblyReference.cache
+C:\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.AssemblyInfoInputs.cache
+C:\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.AssemblyInfo.cs
+C:\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.csproj.CoreCompileInputs.cache
+C:\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.dll
+C:\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.pdb
+C:\BanksPortifolio\obj\Debug\netcoreapp3.1\BanksPortifolio.genruntimeconfig.cache
