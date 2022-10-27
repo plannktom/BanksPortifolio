@@ -10,15 +10,15 @@ namespace BanksPortifolio
         static void Main(string[] args)
         {
             /*
-            SAMPLE INPUT
-            11/12/2020
+            Sample input
+            12/11/2020
             4
-            2000000 PRIVATE 29/12/2025
-            400000 PUBLIC 01/07/2020
-            5000000 PUBLIC 02/01/2024
-            3000000 PUBLIC 26/10/2023
+            2000000 Private 12/29/2025
+            400000 Public 07/01/2020
+            5000000 Public 01/02/2024
+            3000000 Public 10/26/2023
 
-            SAMPLE OUTPUT
+            Sample output
             HIGHRISK
             EXPIRED
             MEDIUMRISK
@@ -29,7 +29,7 @@ namespace BanksPortifolio
             {
                 bool b;
 
-                //Console.WriteLine("Please enter reference date MM-dd-yyyy.:");
+                //Console.WriteLine("Please enter reference date mm/dd/yyyy.:");
 
                 string referenceDate;
 
@@ -40,7 +40,7 @@ namespace BanksPortifolio
                     b = Functions.IsDateTime(referenceDate);
 
                     if (b == false)
-                        Console.WriteLine("Reference date invalid, please enter again MM-dd-yyyy!");
+                        Console.WriteLine("Reference date invalid, please enter again mm/dd/yyyy!");
 
                 } while (b == false);
 
